@@ -8,3 +8,5 @@
     <img width="42%" class="langs"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanz1n&layout=compact&theme=dracula">
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=zanz1n&color=blue">
