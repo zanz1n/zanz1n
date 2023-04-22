@@ -2,9 +2,7 @@
 
 <br>
 
-<img width="16%" src="https://komarev.com/ghpvc/?username=zanz1n&color=blue">
-
-<br>
+<img width="128px" src="https://komarev.com/ghpvc/?username=zanz1n&color=blue">
 
 <p class="images">
     <img width="55%" class="score" src="https://github-readme-stats.vercel.app/api?username=zanz1n&show_icons=true&theme=dracula">
