@@ -2,7 +2,7 @@
 
 <br>
 
-<img width="20%" src="https://komarev.com/ghpvc/?username=zanz1n&color=blue">
+<img width="16%" src="https://komarev.com/ghpvc/?username=zanz1n&color=blue">
 
 <br>
 
